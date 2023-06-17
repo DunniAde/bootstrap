@@ -1,0 +1,37 @@
+<!--<h1 class="text-info text-uppercase">hello world</h1>
+    <h1 class="bg-warning text-capitalize w-75 m-auto text-end rounded border border-5 border-success">hello world</h1>
+    <a href=""class="text-decoration-none bg success ">curfew</a>-->
+
+    <ul class="d-flex nav flex-row bg-warning justify-content-evenly">
+        <li>Home</li>
+        <li>Contact</li>
+        <li>Sign up</li>
+        <button>click</button>
+
+    </ul>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col col-sm-4 bg-warning">Welcome</div>
+            <div class="col col-sm-4 bg-danger">To</div>
+            <div class="col col-sm-2 bg-primary">Church</div>
+            <div class="col col-sm-2 bg-primary">Today</div>
+
+        </div>
+    
+
+    </div>
+
+    
+
+   <script src="./bootstrap.bundle.min.js"></script>
+</body>
+</html>
+
+
+<!-- utilities classes in bootstrap
+
+Text => text-primary, text-success, text-danger, text-info, text-dark, text-secondary, 
+text-white, text-warning, h1, h2, h3, h4, h5, h6, p, fs-1, fs-2, fs-3, fs-4, fs-6
+fw-bold, fst-italic, text-decoration-underline, display-1 - display-6 -->
+
+
